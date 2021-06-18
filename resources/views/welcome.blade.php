@@ -25,10 +25,10 @@
     </div>
 <div class="carousel-inner">
     <div class="carousel-item active" align="center">
-        <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fup.enterdesk.com%2Fedpic%2F21%2Fb6%2F6b%2F21b66be6cc6641c3a191a48174c15e49.jpg&refer=http%3A%2F%2Fup.enterdesk.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1626602663&t=067c62704e38443b2e4471622e5a6141" width="1600px" height="600px">
+        <img src="https://cdn.learnku.com/uploads/images/201906/24/7215/FYie7iwNLR.jpg!large" width="1600px" height="600px">
     </div>
     <div class="carousel-item" align="center">
-        <img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fup.enterdesk.com%2Fedpic%2F4f%2F2e%2Fc4%2F4f2ec4eebb320211b581e667f88539ec.jpg&refer=http%3A%2F%2Fup.enterdesk.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1626602663&t=528289eb53d7b772359d55a3bd241516" width="1600px" height="600px">
+        <img src="https://cdn.learnku.com/uploads/images/201906/24/7215/mjyWS7kMKR.jpg!large" width="1600px" height="600px">
     </div>
 </div>
 <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
